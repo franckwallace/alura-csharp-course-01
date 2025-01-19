@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D159759-433E-4FA2-9EA4-6085EF804A0D}|01-ByteBank\\01-ByteBank.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\2-csharppoo\\bytebank\\01-bytebank\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D159759-433E-4FA2-9EA4-6085EF804A0D}|01-ByteBank\\01-ByteBank.csproj|solutionrelative:01-bytebank\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF754C6-5689-45B0-B233-926D97AD1540}|02-ByteBank\\02-ByteBank.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\2-csharppoo\\bytebank\\02-bytebank\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF754C6-5689-45B0-B233-926D97AD1540}|02-ByteBank\\02-ByteBank.csproj|solutionrelative:02-bytebank\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D159759-433E-4FA2-9EA4-6085EF804A0D}|01-ByteBank\\01-ByteBank.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\2-csharppoo\\bytebank\\01-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D159759-433E-4FA2-9EA4-6085EF804A0D}|01-ByteBank\\01-ByteBank.csproj|solutionrelative:01-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF754C6-5689-45B0-B233-926D97AD1540}|02-ByteBank\\02-ByteBank.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\2-csharppoo\\bytebank\\02-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF754C6-5689-45B0-B233-926D97AD1540}|02-ByteBank\\02-ByteBank.csproj|solutionrelative:02-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContaCorrente.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\01-ByteBank\\ContaCorrente.cs",
-              "RelativeDocumentMoniker": "01-ByteBank\\ContaCorrente.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\01-ByteBank\\ContaCorrente.cs",
-              "RelativeToolTip": "01-ByteBank\\ContaCorrente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\02-ByteBank\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "02-ByteBank\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\02-ByteBank\\ContaCorrente.cs",
+              "RelativeToolTip": "02-ByteBank\\ContaCorrente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:28:19.833Z",
+              "WhenOpened": "2025-01-18T19:03:59.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\01-ByteBank\\Program.cs",
-              "RelativeDocumentMoniker": "01-ByteBank\\Program.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\01-ByteBank\\Program.cs",
-              "RelativeToolTip": "01-ByteBank\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\02-ByteBank\\Program.cs",
+              "RelativeDocumentMoniker": "02-ByteBank\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\2-CSharpPOO\\ByteBank\\02-ByteBank\\Program.cs",
+              "RelativeToolTip": "02-ByteBank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:26:17.589Z",
+              "WhenOpened": "2025-01-18T19:03:10.073Z",
               "EditorCaption": ""
             }
           ]
