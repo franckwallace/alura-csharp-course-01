@@ -9,7 +9,8 @@ public class ContaCorrente
     public double saldo = 100;
 
 
-    //criando a função Sacar
+    //criando a função (ou método) Sacar
+    // bool representa um tipo que TEM retorno (true ou false)
     public bool Sacar(double valor)
     {
         if (this.saldo < valor)
@@ -22,4 +23,15 @@ public class ContaCorrente
             return true;
         }
     }
+
+    //criando o método (ou função) Depositar
+    // void representa um tipo que NÃO tem retorno
+
+    public void Depositar(double valor)
+    {
+        this.saldo += valor;
+    }
+
+
+
 }
