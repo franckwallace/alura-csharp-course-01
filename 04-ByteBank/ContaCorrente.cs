@@ -17,11 +17,13 @@ public class ContaCorrente
         {
             return false;
         }
-        else
-        {
-            this.saldo -= valor;
-            return true;
-        }
+
+        //o "else" foi retirado dessa lógica para simplificação do código
+        //else
+        //{
+        this.saldo -= valor;
+        return true;
+        //}
     }
 
     //criando o método (ou função) Depositar
@@ -32,6 +34,22 @@ public class ContaCorrente
         this.saldo += valor;
     }
 
+    //Criando o método Transferir
+    //Representando no método vários argumentos do tipo ContaCorrente
+
+    public bool Transferir(double valor, ContaCorrente contaDestino)
+    {
+        if (this.saldo < valor)
+        {
+            return false;
+        }
+
+        //chamando o método Depositar já criado acima, passando como argumento o "valor" do método Tranferir, atuando no objeto "contaDestino"
+
+        this.saldo -= valor;
+        contaDestino.Depositar(valor);
+        return true;
+    }
 
 
 }
