@@ -10,7 +10,7 @@ namespace _05_ByteBank
     {
         public string nome;
         public string cpf;
-        public string profìssao;
+        public string profissao;
 
     }
 }
