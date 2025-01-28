@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Alura\2-CSharpPOO\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Alura\2-CSharpPOO\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Alura\2-CSharpPOO\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Alura\2-CSharpPOO\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Alura\2-CSharpPOO\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Alura\2-CSharpPOO\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Alura\2-CSharpPOO\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb
